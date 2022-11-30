@@ -3,7 +3,7 @@
   <a href="https://discord.gg/f4B4GWzRSK">Discord</a> |
   <a href="https://www.youtube.com/@Freakidann">YouTube</a> |
   <a href="https://github.com/Freakidann">Github</a><br><br>
-  <img src="[https://cdn.discordapp.com/attachments/879708989158490152/883919490402897980/unknown.png](https://cdn.discordapp.com/attachments/788749055605997609/1047596673557332038/image.png)" style="width: 60%">
+  <img src="[[https://cdn.discordapp.com/attachments/879708989158490152/883919490402897980/unknown.png](https://cdn.discordapp.com/attachments/788749055605997609/1047596673557332038/image.png](https://cdn.discordapp.com/attachments/788749055605997609/1047596673557332038/image.png))" style="width: 60%">
 </p>
 
 ##  
