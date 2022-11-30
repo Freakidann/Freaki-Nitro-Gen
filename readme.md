@@ -34,9 +34,7 @@
 ##   
 
 ### 🧰 Support
-- Email: <kaneki_pro@protonmail.com>
-- Discord: https://discord.gg/9YGYfDZAGG
-
+- Discord: https://discord.gg/f4B4GWzRSK
 ##  
 
 ### 📜 License & Warning
