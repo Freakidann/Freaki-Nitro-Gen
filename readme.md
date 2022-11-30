@@ -51,4 +51,4 @@
 </p>
 
 ## INSTALL
-https://github.com/Freakidann/Freaki-Nitro-Gen.git
+https://github.com/Freakidann/Freaki-Nitro-Gen/archive/refs/heads/main.zip
